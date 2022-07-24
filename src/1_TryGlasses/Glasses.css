@@ -16,11 +16,11 @@
 .glasses img {
   width: 250px;
 }
-h1 {
+.text h1 {
   color: red;
   position: relative;
 }
-h2 {
+.text h2 {
   color: blue;
   font-size: 20px;
 }
